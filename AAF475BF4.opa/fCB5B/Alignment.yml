@@ -1,0 +1,19 @@
+segment_sources:
+  IDD5D488C:
+    type: origin_type
+    relation: translation
+    language: en
+  IC2E8A6FE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9ca2566bc59142c29d3363454f941651:
+    IDD5D488C: c6fe1e97028a49e9943841c33cfa40c7
+    IC2E8A6FE: 2f73e8e64de249fd99c474ef3180e83a
+  b2010bccb63b49b0b8a46f9cfde7c69f:
+    IDD5D488C: bc277198c45744658f8f5e796ae54255
+    IC2E8A6FE: d14148a6bd3946da8bbc22d959aecc41
+  4c8325d6cf664aff9014807b9dc50451:
+    IDD5D488C: e41c0ce0edee407d956ce51e59291225
+    IC2E8A6FE: 80a629ebc1b541e5bd7ae22b3eb9e492
